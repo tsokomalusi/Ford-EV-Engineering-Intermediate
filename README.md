@@ -3,7 +3,7 @@
 ## Task: Assessing design tradeoffs
 
 ## Overview:
-This task involves evaluating design tradeoff related to choosing particular LIDAR sensor types
+This task involves evaluating design tradeoffs related to choosing particular LIDAR sensor types
 and battery types for a mobile robot.
 
 ## Task objectives
