@@ -12,7 +12,7 @@ and battery types for a mobile robot.
 * Evaluate the performance and cost implications of different LIDAR sensor models for mobile robot.
 * Present findings in the form of simple table outlining the cost and performance comparisons for different design phases.
 
-## References
+# References
 
 ### Evaluating battery form factors
 
