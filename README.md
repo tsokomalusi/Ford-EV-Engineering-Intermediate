@@ -13,7 +13,6 @@ and battery types for a mobile robot.
 * Present findings in the form of simple table outlining the cost and performance comparisons for different design phases.
 
 # References
-[Forage Ford EV ENG INTERMEDIATE] (https://www.theforage.com/virtual-experience/RcxarvzxKbHGeremZ/ford/ev-engineering-intermediate-u0dr/assessing-design-tradeoffs).
 
 ### Evaluating battery form factors
 
