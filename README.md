@@ -32,3 +32,5 @@ Cheng has provided you with the following information about several models of Li
 **Solid-State LiDAR**:  Solid-state LiDAR sensors feature a compact design without any moving parts, ensuring enhanced durability and reliability in various operating conditions. They typically offer high-speed scanning capabilities, making them well-suited for dynamic environments and fast-moving applications. Solid-state LiDARs typically consume less power, making them more energy-efficient. The price range for solid-state LiDAR sensors can start from around $10,000 and can go up to $100,000 or more per unit, depending on the specific model, resolution, and scanning range.
 **Hybrid LiDAR**: Hybrid LiDAR sensors combine the advantages of both mechanical and solid-state LiDAR technologies, offering a balance between long-range sensing, high resolution, and fast data acquisition. They can provide a comprehensive 3D perception of the environment while maintaining a reasonable cost structure. The price range for hybrid LiDAR sensors generally falls between $5,000 and $50,000 per unit.
 
+
+
