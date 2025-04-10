@@ -10,7 +10,7 @@ and battery types for a mobile robot.
 
 * Analyze the impact of various battery form factors (cylindrical, pouch and prismatic) on system cost, safety and durability.
 * Evaluate the performance and cost implications of different LIDAR sensor models for mobile robot.
-* Present findings in the form of simple table outlining the cost and performance comparisons for different design phases.
+* Present technical findings in the form of simple table outlining the cost and performance comparisons for different design phases.
 
 # References
 
